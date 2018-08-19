@@ -1,0 +1,13 @@
+.suggestions {
+  margin: 10px 0;
+}
+
+.suggestionsTagList {
+  display: inline-block;
+}
+
+.suggestionsTitle {
+  font-size: 13px;
+  font-weight: 700;
+  margin-right: 5px;
+}

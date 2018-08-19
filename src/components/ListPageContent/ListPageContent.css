@@ -1,0 +1,5 @@
+.listPageContent {
+  display: grid;
+  grid-template-columns: 25% 75%;
+  grid-column-gap: 1%;
+}

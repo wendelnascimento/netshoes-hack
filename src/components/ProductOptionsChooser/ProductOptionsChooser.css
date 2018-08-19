@@ -1,0 +1,33 @@
+.productOptionsChooser {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-column-gap: 3px;
+  margin-top: 12px;
+}
+
+.radioColorChooser {
+  display: none;
+}
+
+.chooserGroupOptionsList {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: -o-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  -moz-flex-direction: column;
+  -ms-flex-direction: column;
+  -o-flex-direction: column;
+  flex-direction: column;
+  padding: 15px;
+  background: rgba(90, 45, 130, .02);
+}
+
+.chooserGroupTitle {
+  padding: 0 0 10px 15px;
+  font-size: 1rem;
+  line-height: 1.25rem;
+  color: #5A2D82;
+  display: block;
+}

@@ -1,0 +1,19 @@
+.suggestionsTag { 
+  background: #ececec;
+  color: #333;
+  font-size: 13px;
+  font-weight: 700;
+  display: block;
+  text-decoration: none;
+  -webkit-border-radius: 4px;
+  border-radius: 4px;
+  padding: 5px;
+  display: inline-block;
+  margin: 0 7px 0 0;
+}
+
+.suggestionsTag:hover {
+  color: #fff;
+  background: #878787;
+  cursor: pointer;
+}

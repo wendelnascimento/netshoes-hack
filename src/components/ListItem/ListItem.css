@@ -1,0 +1,23 @@
+.listItemTitle {
+  font-size: 1em;
+  font-weight: 400;
+  text-transform: none;
+  margin: 0;
+  padding: 0;
+  color: #4d4d4d;
+  text-decoration: none;
+  line-height: 1.2em;
+}
+
+.listItemImage {
+  width: 100%;
+}
+
+.listItemPrice, .listItemPrice:visited, .listItemPrice:active {
+  font-size: 14px;
+  font-weight: 700;
+  color: #13abe1;
+  line-height: 1.2;
+  height: 18px;
+  text-decoration: none;
+}

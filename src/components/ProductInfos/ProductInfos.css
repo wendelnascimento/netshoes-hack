@@ -1,0 +1,32 @@
+.titleProductInfo {
+  color: #5A2D82;
+  line-height: 1.75rem;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-transform: none;
+  font-family: "Trebuchet MS", sans-serif;
+}
+
+.codeProductInfo {
+  color: #5A2D82;
+  margin-top: 10px;
+  font-size: .875rem;
+}
+
+.chooseOptionsHeader, .descriptionHeader {
+  display: block;
+  color: #5A2D82;
+  line-height: 1.5rem;
+  font-size: 1.25rem;
+  margin-top: 30px;
+}
+
+.descriptionHeader {
+  color: #545356;
+  margin-bottom: 20px;
+}
+
+.descriptionText {
+  font-size: .875rem;
+  line-height: 1.375rem;
+}

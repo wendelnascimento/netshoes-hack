@@ -1,0 +1,42 @@
+.titlePaymentOptions {
+  text-transform: uppercase;
+  color: #5A2D82;
+  padding: 10px;
+  font-size: 1rem;
+  display: block;
+  background: rgba(90, 45, 130, .02);
+  font-weight: 700;
+  margin-bottom: 15px;
+}
+
+.paymentOptionsList li {
+  padding: 10px;
+  background: rgba(90, 45, 130, .02);
+  margin-bottom: 15px;
+}
+
+.paymentOptionPrice {
+  margin: 15px 0 10px 0;
+  color: #13ABE1;
+  font: normal normal bold 30px/100% netshoes_displayblack,sans-serif;
+  display: block;
+}
+
+.paymentOptionParcels {
+  color: #13ABE1;
+  font-size: .875rem;
+}
+
+.buyButton {
+  padding: 15px;
+  background: #FF691E;
+  border: none;
+  width: 100%;
+  text-transform: uppercase;
+  font: normal normal bold 20px/100% netshoes_displayblack,sans-serif;
+  color: #fff;
+}
+
+.buyButton:hover {
+  cursor: pointer;
+}

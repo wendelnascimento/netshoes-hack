@@ -1,0 +1,6 @@
+.resultsListItems {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-column-gap: 0.6%;
+  grid-row-gap: 24px;
+}
